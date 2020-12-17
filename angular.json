@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-links-votes-app"
+  "defaultProject": "angular-links-votes-app",
+  "cli": {
+    "analytics": "0e2d1963-5414-4df5-afb5-fd89d664e0c8"
+  }
 }
